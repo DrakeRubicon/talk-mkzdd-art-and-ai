@@ -160,30 +160,30 @@
 * []()
 * []()
 
-## Slide #5 – "Struktur"
+## Slide #5 – "Funktionsprinzipien"
 
 
 
-## Slide #6 – "Struktur"
-## Slide #7 – "Struktur"
-## Slide #8 – "Reaktionen"
+## Slide #6 – "Funktionsprinzipien #2"
+## Slide #7 – "Interaktionsprinzipien"
+## Slide #8 – "Reaktionen #1"
 
 * No Links
 
-## Slide #9 – "Struktur"
-## Slide #10 – "Struktur"
-## Slide #11 – "Struktur"
-## Slide #12 – "Struktur"
-## Slide #13 – "Struktur"
-## Slide #14 – "Struktur"
+## Slide #9 – "Reaktionen #2 – Konsumenten"
+## Slide #10 – "Reaktionen #3 – Kreativwirtschaft"
+## Slide #11 – "Reaktionen #4 – Kulturschaffende & bildende Kunst"
+## Slide #12 – "Reaktionen #5 – Medienunternehmen"
+## Slide #13 – "Reaktionen #6 – Politik"
+## Slide #14 – "Reaktionen #7 – KI-Unternehmen"
 ## Slide #15 – "Vergangenheit & Zukunft"
 
 * No Links
 
-## Slide #16 – "Struktur"
-## Slide #17 – "Struktur"
-## Slide #18 – "Struktur"
-## Slide #19 – "Struktur"
+## Slide #16 – "Historischer Wert von Kunst"
+## Slide #17 – "Kunst- und Kulturschaffende"
+## Slide #18 – "Schaffenshöhe"
+## Slide #19 – "Digitalisierung und die 90’er"
 ## Slide #20 – "Ausblick"
 
 * No Links
