@@ -11,7 +11,6 @@
 * [Paper: "System zur Visualisierung von Lernvorgängen in neuralen Netzen" - Jīva AI](https://www.dropbox.com/sh/mj2wlbhn7eb6gqj/AAC_TyW_qjsdln0d1y7yIli7a?dl=0)
 * ["re:draw" @ Kurator: Thomas Hellinger](https://thomas-hellinger.de/biografie/kuratorentaetigkeit/)
 * ["re:draw" @ Künstlermesse-Dresden via archive.org](https://web.archive.org/web/20220528224005/https://kuenstlermesse-dresden.de/rahmenprogramm-2022/)
-
 ## Slide #3 – "Struktur"
 * No Links
 ## Slide #4 – "Zeitlinie"
@@ -24,7 +23,7 @@
 * [IBM Watson @ Wikipedia](https://en.wikipedia.org/wiki/IBM_Watson)
 * [IBM Watson Jeopardy Challenge @ YouTube](https://www.youtube.com/watch?v=P18EdAKuC1U)
 * ["Computer Wins on ‘Jeopardy!’: Trivial, It’s Not" @ NYTimes](https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html)
-### GAN – "Generative Adversarial Network"
+### GAN (Generative Adversarial Network)
 * ["Generative Adversarial Nets" Original Paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 * [GAN @ Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 ### Google Deep Dream
@@ -51,7 +50,6 @@
 * [GPT-2 Releasepost @ OpenAI via archive.org](https://web.archive.org/web/20201219132206/https://openai.com/blog/better-language-models/)
 * [GPT-2 Code @ Github](https://github.com/openai/gpt-2)
 * [GTP-2 @ Wikipedia](https://en.wikipedia.org/wiki/GPT-2)
-
 ### GPT-3
 * [GTP-3 @ Wikipedia](https://en.wikipedia.org/wiki/GPT-3)
 * [GPT-3 @ Github](https://github.com/openai/gpt-3)
@@ -59,17 +57,14 @@
 ### DALL-E
 * [DALL-E @ Wikipedia](https://en.wikipedia.org/wiki/DALL-E)
 * [DALL-E Introduction @ OpenAi via archive.org](https://web.archive.org/web/20210105220328/https://openai.com/blog/dall-e/)
-
 ### LAION-400M (Large-scale Artificial Intelligence Open Network)
 * [LAION @ Wikipedia](https://en.wikipedia.org/wiki/LAION)
 * [LAION-400M @ Laion.ai](https://laion.ai/blog/laion-400-open-dataset/)
-* [LAION-400M Original Paper](https://arxiv.org/abs/2111.02114)
+* [LAION-400M – Original Paper](https://arxiv.org/abs/2111.02114)
 * [LAION-400M @ HugginFace](https://huggingface.co/datasets/laion/laion400m)
-
 ### ChatGPT
 * [ChatGPT @ Wikipedia](https://en.wikipedia.org/wiki/ChatGPThttps://web.archive.org/web/20230504032613/https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 * [ChatGPT @ OpenAi via archive.org]()
-
 ### Midjourney
 * [Midjourney @ Wikipedia](https://en.wikipedia.org/wiki/Midjourney)
 * [Midjourney Homepage](https://www.midjourney.com/)
@@ -77,38 +72,37 @@
 ### Dall-E 2
 * [DALL-E 2 @ Wikipedia](https://en.wikipedia.org/wiki/DALL-E)
 * [DALL-E 2 @ OpenAI](https://openai.com/product/dall-e-2)
-
 ### ImageGen
 * [ImageGen @ Google Research](https://imagen.research.google/)
-
 ### Laion-5B
 * [LAION @ Wikipedia](https://en.wikipedia.org/wiki/LAION)
 * [Laion-5B @ Laion.ai](https://laion.ai/blog/laion-5b/)
-* [Laion-5B Original Paper](https://arxiv.org/abs/2210.08402)
+* [Laion-5B – Original Paper](https://arxiv.org/abs/2210.08402)
 * [Laion-5B @ HugginFace](https://huggingface.co/datasets/laion/laion5B-index)
-
 ### StableDiffusion 1 & 2
 * [StableDiffusion Web](https://stablediffusionweb.com/)
 * [StableDiffusion Release Post @ Stability.Ai](https://stability.ai/blog/stable-diffusion-public-release)
 * [StableDiffusion Initial Announcement @ Stability.Ai via archive.org](https://web.archive.org/web/20220905105009/https://stability.ai/blog/stable-diffusion-announcement)
 * [StableDiffusion @ Wikipedia](https://en.wikipedia.org/wiki/Stable_Diffusion)
-* [Latent Diffusion Models Paper](https://arxiv.org/abs/2112.10752)
-
+* [Latent Diffusion Models – Paper](https://arxiv.org/abs/2112.10752)
+* [StableDiffusion @ Guthub](https://github.com/CompVis/stable-diffusion)
 ### ControlNet
-* []()
-* []()
-* []()
-* []()
+* [ControlNet @ Wikipedia](https://en.wikipedia.org/wiki/Stable_Diffusion#ControlNet)
+* [ControlNet @ StableDiffusion](https://stablediffusionweb.com/ControlNet)
+* [ControlNet @ Guthub](https://github.com/lllyasviel/ControlNet)
+* [ControlNet @ Hugginface](https://huggingface.co/spaces/hysts/ControlNet-v1-1)
+* * [ControlNet basics @ LearnOpenCV.com](https://learnopencv.com/controlnet/)
 ### GPT-4
-* []()
-* []()
-* []()
-* []()
-
+* [GPT-4 @ OpenAI Product](https://openai.com/product/gpt-4)
+* [GPT-4 @ OpenAI Research](https://openai.com/research/gpt-4)
+* [GPT-4 – Technical Report](https://arxiv.org/abs/2303.08774)
+* [GPT-4 – Release Developer Livestream @ Youtube](https://www.youtube.com/watch?v=outcGtbnMuQ)
 ### LLaMA
-* []()
-* []()
-* []()
+* [LLaMA @ Facebook AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+* [LLaMA @ Github](https://github.com/facebookresearch/llama)
+* [LLaMA @ Hugginface](https://huggingface.co/docs/transformers/main/model_doc/llama)
+* [LLaMA leaked – Article @ theVerge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
+* [LLaMA leak effects – Article @ theSequence Substack](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 ## Slide #5 – "Funktionsprinzipien"
 * []()
 * []()
@@ -124,7 +118,6 @@
 * []()
 * []()
 * []()
-
 ## Slide #8 – "Reaktionen #1"
 * No Links
 ## Slide #9 – "Reaktionen #2 – Konsumenten"
@@ -132,37 +125,31 @@
 * []()
 * []()
 * []()
-
 ## Slide #10 – "Reaktionen #3 – Kreativwirtschaft"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #11 – "Reaktionen #4 – Kulturschaffende & bildende Kunst"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #12 – "Reaktionen #5 – Medienunternehmen"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #13 – "Reaktionen #6 – Politik"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #14 – "Reaktionen #7 – KI-Unternehmen"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #15 – "Vergangenheit & Zukunft"
 * No Links
 ## Slide #16 – "Historischer Wert von Kunst"
@@ -170,25 +157,21 @@
 * []()
 * []()
 * []()
-
 ## Slide #17 – "Kunst- und Kulturschaffende"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #18 – "Schaffenshöhe"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #19 – "Digitalisierung und die 90’er"
 * []()
 * []()
 * []()
 * []()
-
 ## Slide #20 – "Ausblick"
 * No Links
 ## Slide #21 – "Q&A"
