@@ -91,8 +91,10 @@
 * [ControlNet @ StableDiffusion](https://stablediffusionweb.com/ControlNet)
 * [ControlNet @ Guthub](https://github.com/lllyasviel/ControlNet)
 * [ControlNet @ Hugginface](https://huggingface.co/spaces/hysts/ControlNet-v1-1)
-* * [ControlNet basics @ LearnOpenCV.com](https://learnopencv.com/controlnet/)
+* [ControlNet basics @ LearnOpenCV.com](https://learnopencv.com/controlnet/)
+* [ControlNet basics @ StableDiffusionArt](https://stable-diffusion-art.com/controlnet/)
 ### GPT-4
+* [GPT-4 @ Wikipedia](https://en.wikipedia.org/wiki/GPT-4)
 * [GPT-4 @ OpenAI Product](https://openai.com/product/gpt-4)
 * [GPT-4 @ OpenAI Research](https://openai.com/research/gpt-4)
 * [GPT-4 – Technical Report](https://arxiv.org/abs/2303.08774)
@@ -103,6 +105,7 @@
 * [LLaMA @ Hugginface](https://huggingface.co/docs/transformers/main/model_doc/llama)
 * [LLaMA leaked – Article @ theVerge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
 * [LLaMA leak effects – Article @ theSequence Substack](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+* [LLaMA Leak with links @ Reddit](https://www.reddit.com/r/ChatGPT/comments/11mracj/metas_llama_llm_has_leaked_run_uncensored_ai_on/)
 ## Slide #5 – "Funktionsprinzipien"
 * []()
 * []()
