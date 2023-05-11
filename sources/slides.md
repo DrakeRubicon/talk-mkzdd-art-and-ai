@@ -106,16 +106,22 @@
 * [LLaMA leaked – Article @ theVerge](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
 * [LLaMA leak effects – Article @ theSequence Substack](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
 * [LLaMA Leak with links @ Reddit](https://www.reddit.com/r/ChatGPT/comments/11mracj/metas_llama_llm_has_leaked_run_uncensored_ai_on/)
-## Slide #5 – "Funktionsprinzipien"
-* []()
-* []()
-* []()
-* []()
-## Slide #6 – "Funktionsprinzipien #2"
-* []()
-* []()
-* []()
-* []()
+## Slide #5 & #6 – "Funktionsprinzipien"
+* [Artificial Intelligence @ Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
+* [Artificial Neural Network @ Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Matrix @ Wikipedia)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+* [Vektor @ Wikipedia](https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics))
+* [Gradient Descent @ Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
+* [CNN (Convolutional Neural Network) @ Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+* [RNN (Recurrent Neural Network)) @ Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+* [Deep Learning @ Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
+* [Transformer @ Wikipedia](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
+* [Computational Creativity @ Wikipedia](https://en.wikipedia.org/wiki/Computational_creativity)
+* [Generative Artificial Intelligence @ Wikipedia](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+### Bildartikel
+* ["Deep Learning – Introduction to Convolutional Neural Networks" @ Vinod Sharma's Blog](https://vinodsblog.com/2018/10/15/everything-you-need-to-know-about-convolutional-neural-networks/)
+* ["An intuitive guide to Convolutional Neural Networks" @ freecodecamp.org](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/)
+* ["Visualizing A Neural Machine Translation Model" @ Jay Alammar, Github](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 ## Slide #7 – "Interaktionsprinzipien"
 * []()
 * []()
